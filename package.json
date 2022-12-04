@@ -1,0 +1,11 @@
+{
+  "name": "biohacking",
+  "version": "1.0.0",
+  "description": "site for biohacking society of UNSW",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Danacha Lark",
+  "license": "ISC"
+}
